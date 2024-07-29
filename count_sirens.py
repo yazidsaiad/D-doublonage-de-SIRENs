@@ -4,7 +4,6 @@ def count_sirens(file_path):
     with open(file_path, 'r') as file:
         sirens = file.readlines()
     
-    # Remove whitespace characters like `\n` at the end of each line
     sirens = [siren.strip() for siren in sirens]
     
     # Count the frequency of each SIREN
