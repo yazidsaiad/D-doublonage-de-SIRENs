@@ -10,7 +10,7 @@ sudo apt install python3
 
 Pour cloner le réperoire :
 ```bash
-git clone https://github.com/yazidsaiad/D-doublonage-de-SIRENs.git
+git clone https://github.com/yazidsaiad/D-doublonnage-de-SIRENs.git
 cd siren_analyzer
 ```
 
